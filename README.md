@@ -3,10 +3,15 @@ Battle through increasingly difficult waves, collect health power-ups, and survi
 Get final statistics including score, number of enemies killed, and number of health power-ups at the end of the game.
 
 Instructions on how to play:
+
 Move - WASD keys 
-Aim - Mouse cursor 
+
+Aim - Mouse cursor
+
 Shoot - Left mouse button 
+
 Start/Restart - SPACE key 
+
 Quit - ESC key
 
 Use the following command to compile the program:
