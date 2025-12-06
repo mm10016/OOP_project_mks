@@ -10,10 +10,13 @@ Start/Restart - SPACE key
 Quit - ESC key
 
 Use the following command to compile the program:
+
 g++ -std=c++14 -I. Entity.cpp Bullet.cpp Weapon.cpp Enemy.cpp FastEnemy.cpp Player.cpp PowerUp.cpp EnemyManager.cpp CollisionManager.cpp UIManager.cpp  Game.cpp main.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
 Then use command  to run it:
+
 ./game
 
 The following is the link to our GitHub repository:
+
 https://github.com/mm10016/OOP_project_mks
