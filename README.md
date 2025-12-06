@@ -22,6 +22,3 @@ Then use command  to run it:
 
 ./game
 
-The following is the link to our GitHub repository:
-
-https://github.com/mm10016/OOP_project_mks
